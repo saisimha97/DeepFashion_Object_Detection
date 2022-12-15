@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 -------------------------------- Inference -----------------------------
 
-1. Download our trained model from {} and place it in your desired location
+1. Download our trained model from https://northeastern-my.sharepoint.com/:u:/g/personal/vanam_b_northeastern_edu/EcZjvJm6vUdKinW7GVpZUdkBY9v-GppC7vJykKsq1p7PsA?e=CdhGNL and place it in your desired location
 2. Adjust the model_path and test image path in the infertence.ipynb notebook and run all the cells
 
 
