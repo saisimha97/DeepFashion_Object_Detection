@@ -13,7 +13,9 @@ Follow the prerequisite steps and requirements
 
 
 conda create -n detr_detection python=3.7
+
 conda activate detr_detection
+
 pip install -r requirements.txt
 
 -------------------------------- Training -----------------------------
