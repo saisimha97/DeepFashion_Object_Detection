@@ -4,15 +4,11 @@
                              Advanced Computer Vision (EECE 7370)
 
            
-Team:
+Team: Bhanu Sai Simha Vanam, Avinash Deyyam, Naga Sindhu Namana
 
-Bhanu Sai Simha Vanam
 
-Avinash Deyyam
 
-Naga Sindhu Namana
-
-Follow the prerequisite steps and requirements
+Follow the prerequisite steps and requirements:
 
 
 conda create -n detr_detection python=3.7
